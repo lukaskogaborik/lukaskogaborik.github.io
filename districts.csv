@@ -1,0 +1,81 @@
+,Okres,EČV[pozn. 1],Kód,Kraj,Počet obyvateľov,Z toho žien[%],Rozloha[km²],Hustota ob.[obyv./km²],Počet miesta obcí,Z toho miest
+0,Bánovce nad Bebravou,BN,301.0,Trenčiansky,35 658,513,4619,77,43,1
+1,Banská Bystrica,"BB, BC, BK",601.0,Banskobystrický,108 120,524,8094,134,42,1
+2,Banská Štiavnica,BS,602.0,Banskobystrický,15 551,517,2923,53,15,1
+3,Bardejov,BJ,701.0,Prešovský,75 786,505,9362,81,86,1
+4,Bratislava I,"BA, BL, BT, BD, BE, BI",101.0,Bratislavský,46 432,538,96,4 842,,
+5,Bratislava II,"BA, BL, BT, BD, BE, BI",102.0,Bratislavský,125 001,542,925,1 352,,
+6,Bratislava III,"BA, BL, BT, BD, BE, BI",103.0,Bratislavský,76 694,537,747,1 027,,
+7,Bratislava IV,"BA, BL, BT, BD, BE, BI",104.0,Bratislavský,105 154,528,967,1 087,,
+8,Bratislava V,"BA, BL, BT, BD, BE, BI",105.0,Bratislavský,122 296,521,942,1 298,,
+9,Brezno,BR,603.0,Banskobystrický,58 965,513,"1 265,2",47,30,1
+10,Bytča,BY,501.0,Žilinský,31 163,507,2816,111,12,1
+11,Čadca,CA,502.0,Žilinský,87 969,502,7606,116,23,3
+12,Detva,DT,604.0,Banskobystrický,30 854,512,4492,69,15,2
+13,Dolný Kubín,DK,503.0,Žilinský,38 937,508,4919,79,24,1
+14,Dunajská Streda,DS,201.0,Trnavský,125 238,514,"1 074,6",117,67,4
+15,Galanta,GA,202.0,Trnavský,95 027,512,6417,148,36,3
+16,Gelnica,GL,801.0,Košický,31 668,506,5844,54,20,1
+17,Hlohovec,HC,203.0,Trnavský,43 769,508,2672,164,24,2
+18,Humenné,HE,702.0,Prešovský,59 535,509,7542,79,62,1
+19,Ilava,IL,302.0,Trenčiansky,57 511,510,3585,160,21,3
+20,Kežmarok,KK,703.0,Prešovský,74 232,504,8393,88,41,3
+21,Komárno,KN,401.0,Nitriansky,100 212,516,"1 100,1",91,41,4
+22,Košice I,"KE, KC, KI",802.0,Košický,63 904,529,854,748,,
+23,Košice II,"KE, KC, KI",803.0,Košický,79 034,519,739,1 070,,
+24,Košice III,"KE, KC, KI",804.0,Košický,27 924,514,169,1 657,,
+25,Košice IV,"KE, KC, KI",805.0,Košický,56 596,527,609,929,,
+26,Košice-okolie,KS,806.0,Košický,129 237,505,"1 541,3",84,114,2
+27,Krupina,KA,605.0,Banskobystrický,21 366,518,5849,37,36,2
+28,Kysucké Nové Mesto,KM,504.0,Žilinský,32 654,507,1737,188,14,1
+29,Levice,"LV, LL",402.0,Nitriansky,109 588,520,"1 551,1",71,89,4
+30,Levoča,LE,704.0,Prešovský,33 127,505,3573,93,33,2
+31,Liptovský Mikuláš,LM,505.0,Žilinský,71 685,516,"1 341,1",53,56,2
+32,Lučenec,LC,606.0,Banskobystrický,69 788,523,8256,85,57,2
+33,Malacky,MA,106.0,Bratislavský,78 809,511,9495,83,26,2
+34,Martin,MT,506.0,Žilinský,93 816,514,7357,128,43,3
+35,Medzilaborce,ML,705.0,Prešovský,10 870,513,4273,25,23,1
+36,Michalovce,MI,807.0,Košický,108 520,515,"1 019,3",106,78,3
+37,Myjava,MY,303.0,Trenčiansky,25 363,515,3274,77,17,2
+38,Námestovo,NO,507.0,Žilinský,63 563,496,6905,92,24,1
+39,Nitra,"NR, NI, NT",403.0,Nitriansky,164 580,517,8707,189,62,2
+40,Nové Mesto nad Váhom,NM,304.0,Trenčiansky,61 512,515,5800,106,34,2
+41,Nové Zámky,"NZ, NC",404.0,Nitriansky,137 001,518,"1 347,1",102,62,3
+42,Partizánske,PE,305.0,Trenčiansky,44 179,512,3010,147,23,1
+43,Pezinok,PK,107.0,Bratislavský,69 623,516,3755,185,17,3
+44,Piešťany,PN,204.0,Trnavský,62 662,519,3811,164,27,2
+45,Poltár,PT,607.0,Banskobystrický,20 427,514,4762,43,22,1
+46,Poprad,PP,706.0,Prešovský,102 469,514,"1 105,4",93,29,3
+47,Považská Bystrica,PB,306.0,Trenčiansky,61 211,510,4632,132,28,1
+48,Prešov,"PO, PV, PS",707.0,Prešovský,173 187,513,9337,185,91,2
+49,Prievidza,PD,307.0,Trenčiansky,130 616,508,9598,136,52,4
+50,Púchov,PU,308.0,Trenčiansky,44 133,511,3753,118,21,1
+51,Revúca,RA,608.0,Banskobystrický,38 242,511,7303,52,42,3
+52,Rimavská Sobota,RS,609.0,Banskobystrický,80 359,516,"1 471,1",55,107,3
+53,Rožňava,RV,808.0,Košický,58 995,517,"1 173,3",50,62,2
+54,Ružomberok,RK,508.0,Žilinský,57 036,517,6468,88,25,1
+55,Sabinov,SB,708.0,Prešovský,60 607,501,4835,125,43,2
+56,Senec,SC,108.0,Bratislavský,99 705,514,3599,277,29,1
+57,Senica,SE,205.0,Trnavský,59 347,511,6835,87,31,2
+58,Skalica,SI,206.0,Trnavský,47 313,512,3571,132,21,3
+59,Snina,SV,709.0,Prešovský,34 655,512,8047,43,34,1
+60,Sobrance,SO,809.0,Košický,22 377,514,5382,42,47,1
+61,Spišská Nová Ves,SN,810.0,Košický,98 656,506,5874,168,36,3
+62,Stará Ľubovňa,SL,710.0,Prešovský,52 867,503,6240,85,44,2
+63,Stropkov,SP,711.0,Prešovský,19 744,504,3890,51,43,1
+64,Svidník,SK,712.0,Prešovský,31 397,510,5498,57,68,2
+65,Šaľa,SA,405.0,Nitriansky,50 972,513,3559,143,13,1
+66,Topoľčany,TO,406.0,Nitriansky,70 313,510,5976,118,54,1
+67,Trebišov,TV,811.0,Košický,103 377,516,"1 073,5",96,82,4
+68,Trenčín,"TN, TC, TE",309.0,Trenčiansky,113 516,513,6748,168,37,3
+69,Trnava,"TT, TA, TB",207.0,Trnavský,131 940,513,7413,178,45,1
+70,Turčianske Teplice,TR,509.0,Žilinský,15 848,510,3928,40,26,1
+71,Tvrdošín,TS,510.0,Žilinský,35 802,500,4789,75,15,2
+72,Veľký Krtíš,VK,610.0,Banskobystrický,41 605,516,8482,49,71,2
+73,Vranov nad Topľou,VT,713.0,Prešovský,79 181,507,7695,103,68,2
+74,Zlaté Moravce,ZM,407.0,Nitriansky,40 881,515,5212,78,33,1
+75,Zvolen,ZV,611.0,Banskobystrický,66 294,521,7590,87,26,2
+76,Žarnovica,ZC,612.0,Banskobystrický,24 991,510,4253,59,18,2
+77,Žiar nad Hronom,ZH,613.0,Banskobystrický,44 424,518,5177,86,35,2
+78,Žilina,"ZA, ZI, ZL",511.0,Žilinský,161 052,514,8151,198,53,3
+79,Celkom:,79,,,5 434 712,514,"49 036,4",111,2 890,140[pozn. 2]
